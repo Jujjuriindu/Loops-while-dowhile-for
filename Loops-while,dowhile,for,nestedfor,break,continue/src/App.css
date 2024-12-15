@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  background-color: red;
+  border: 2px solid black;
+  font-size: 2rem;
+  border-radius: 30px;
+  text-align: center;
+  width: 500px;
+  box-shadow: 10px 10px 10px black;
+}
+
+button{
+  background-color: lavender;
+  border: 2px solid black;
+  font-size: 1.5rem;
+  padding: 10px;
+  margin: 20px;
+  width: 200px;
+  border-radius: 10px;
+}
